@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "5e677da924160c44e39cbff2",
+    "employeeNumber": "469aad49-e0b5-4b81-b8e7-011216056dd3",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "name": {
+      "first": "Hunter",
+      "last": "Fox"
+    },
+    "company": "VIASIA",
+    "email": "hunter.fox@viasia.name",
+    "phone": "+1 (835) 424-3997",
+    "address": "672 Montana Place, Lutsen, Connecticut, 9703",
+    "latitude": "44.297661",
+    "longitude": "33.455115"
+  },
+  {
+    "_id": "5e677da958f8cf9c5c574979",
+    "employeeNumber": "27a28873-c11f-438c-bfb8-089ddb77789c",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "name": {
+      "first": "Workman",
+      "last": "Blair"
+    },
+    "company": "MAGNEMO",
+    "email": "workman.blair@magnemo.org",
+    "phone": "+1 (847) 470-2326",
+    "address": "814 Milford Street, Sharon, North Dakota, 1095",
+    "latitude": "-11.099548",
+    "longitude": "-156.019454"
+  },
+  {
+    "_id": "5e677da9aaf50c7982855565",
+    "employeeNumber": "3929ded0-69a4-4b59-941a-b875cc6ca3cc",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "name": {
+      "first": "Perez",
+      "last": "Molina"
+    },
+    "company": "XINWARE",
+    "email": "perez.molina@xinware.biz",
+    "phone": "+1 (936) 571-3629",
+    "address": "567 Pierrepont Place, Rivers, West Virginia, 7571",
+    "latitude": "29.207101",
+    "longitude": "18.921441"
+  },
+  {
+    "_id": "5e677da9e8fe88fb5a72c3f4",
+    "employeeNumber": "138e80b6-5950-4240-8767-8f66ec827b2c",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "name": {
+      "first": "Leach",
+      "last": "Guy"
+    },
+    "company": "PODUNK",
+    "email": "leach.guy@podunk.tv",
+    "phone": "+1 (981) 453-3434",
+    "address": "263 Wilson Street, Newry, Indiana, 9276",
+    "latitude": "2.87966",
+    "longitude": "42.880796"
+  },
+  {
+    "_id": "5e677da95a4aad1044bfc7e3",
+    "employeeNumber": "a698c97a-7b9d-4470-ad6b-ab6906673449",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "name": {
+      "first": "Marilyn",
+      "last": "Davidson"
+    },
+    "company": "LYRICHORD",
+    "email": "marilyn.davidson@lyrichord.io",
+    "phone": "+1 (870) 468-2151",
+    "address": "475 Overbaugh Place, Hanover, Puerto Rico, 9409",
+    "latitude": "-17.276198",
+    "longitude": "173.433412"
+  },
+  {
+    "_id": "5e677da93e282161d86abaf1",
+    "employeeNumber": "3714e948-6510-43af-ade3-c9667261a377",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "name": {
+      "first": "Hopper",
+      "last": "Best"
+    },
+    "company": "BRISTO",
+    "email": "hopper.best@bristo.co.uk",
+    "phone": "+1 (838) 546-3918",
+    "address": "234 Irving Street, Jessie, Nebraska, 3302",
+    "latitude": "68.359685",
+    "longitude": "-63.726787"
+  },
+  {
+    "_id": "5e677da9160bd3a29db2911e",
+    "employeeNumber": "56daa69a-a525-4d7e-b5b4-fc289d95a32b",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "name": {
+      "first": "Coffey",
+      "last": "Johnson"
+    },
+    "company": "SEQUITUR",
+    "email": "coffey.johnson@sequitur.com",
+    "phone": "+1 (957) 461-3030",
+    "address": "599 Coleman Street, Lookingglass, Kansas, 6427",
+    "latitude": "-2.302529",
+    "longitude": "127.818847"
+  }
+]
